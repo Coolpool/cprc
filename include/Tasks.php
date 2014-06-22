@@ -42,3 +42,5 @@ class Tasks {
 		$this->sendPacket('s', 'u#sb', $this->mNum, $x, $y);
 	}
 }
+
+?>
